@@ -1,2 +1,2 @@
-# athena_table_defs
-Table definitions for AWS athena
+# AWS Athena Table defintions
+Some common table defintions for using AWS athena to look at log data
